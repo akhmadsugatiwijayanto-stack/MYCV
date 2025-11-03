@@ -4,7 +4,9 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Resume Akhmad Sugati Wijayanto</title>
-  <style>body {
+  
+  <style>
+    body{
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
   background-color: #f4f4f4;
